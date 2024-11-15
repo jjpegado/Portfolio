@@ -2,14 +2,14 @@ import React from 'react'
 import styled from 'styled-components';
 
 const Project = (props) => {
-    const { img, disc } = props.item;
+    const { img, disc, demo} = props.item;
   return (
     <Container className='Projetos'>
         <img src={img} alt="project" />
         <div className="disc">
             <h1>Discrição</h1>
             <p>{disc}
-            <a href="https://leafy-creponne-225dc8.netlify.app/" target="_blank" >demo</a>
+            <a href={demo} target="_blank" >demo</a>
             </p>
         </div>
     </Container>

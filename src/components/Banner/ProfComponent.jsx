@@ -15,10 +15,14 @@ const ProfComponent = () => {
             olá <span className="green">Eu Sou</span>
           </h4>
           <h1 className="green">Júlio Soares</h1>
-          <h3>Desenvolvedor Front End</h3>
-          <p> Olá, eu sou o Júlio Soares desenvolvedor front-end. Sou apaixonado por criar interfaces de usuário atraentes e funcionais para entregar produtos de alta qualidade.
-             Estou sempre procurando aprender novas tecnologias e melhorar minhas habilidades, além de me manter atualizado sobre as tendências do setor de desenvolvimento.</p>
-          <button >Vamos Convesar</button>
+          <h3>Desenvolvedor de Software | Full Stack </h3>
+          <p> Tenho sólida experiência no desenvolvimento de soluções completas, desde o back-end até o front-end, utilizando tecnologias modernas como JavaScript, 
+            TypeScript, Node.js, React.js, Next.js e SQL. Minhas habilidades abrangem a criação de APIs robustas, design de interfaces de usuário dinâmicas e responsivas, 
+            e a implementação de sistemas escaláveis e bem estruturados.
+            Sou apaixonado por entregar produtos de alta qualidade, sempre focado em eficiência, 
+            usabilidade e inovação. Meu diferencial está na capacidade de compreender desafios complexos e 
+            transformá-los em soluções práticas, colaborando ativamente com equipes para alcançar resultados excepcionais. 🚀</p>
+          <button>Vamos Convesa ↓</button>
           <Social>
             <p>Confira o Meu</p>
             <div className="social-icons">
@@ -58,7 +62,7 @@ export default ProfComponent;
 const Container = styled.div`
   display: flex;
   gap: 2rem;
-  padding-top: 3rem;
+  padding-top: 6rem;
   width: 80%;
   max-width: 1280px;
   margin: 0 auto;

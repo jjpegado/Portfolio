@@ -19,13 +19,12 @@ const Services = () => {
 
         <Slide direction="right">
           <Card
-            Icon={CgWebsite}
-            title={"Desenvolvedor Full Steck "}
-            disc={`Meu nome é Júlio Tenório Soares, tenho 22 anos e sou natural
-             de Bom Conselho Pernambuco, Desde pequeno, já muito curioso, tive meu primeiro contato com uma maquina aos 7 anos de idade e desde então, 
-             criei minha paixão por elas. Aos 17 anos decidi oque iria fazer da minha vida profissional, PROGRAMAR !
-              Quis entender oque acontecia por trás do show dos programas e jogos. Mas só aos 22 anos que comecei minha história com programação, Estou a procura 
-              de minha primeira oportunidade, tenho experiência com Html e Css avançado, Bootstrap, Javascript, React.js e Wordpress intermédio.`}
+            Icon={CgWebsite }
+            title={"Desenvolvedor de Software | Full Stack "}
+            disc={`Sou um desenvolvedor full stack especializado em criar aplicações completas, integrando tecnologias modernas como JavaScript, TypeScript, Node.js, React.js, Next.js e SQL. Tenho experiência em todo o ciclo de desenvolvimento, desde a análise de requisitos e arquitetura de sistemas até a entrega final e manutenção de projetos escaláveis.
+                Minha atuação no back-end inclui a criação de APIs RESTful e Postgres, integração com bancos de dados relacionais e não relacionais, e implementação de práticas de segurança e performance. No front-end, destaco minha habilidade em desenvolver interfaces de usuário interativas e acessíveis, otimizadas para uma experiência intuitiva e responsiva.
+                Além das competências técnicas, valorizo a colaboração em equipe e a adoção de metodologias ágeis como Scrum e Kanban, garantindo alinhamento com prazos e metas. Estou sempre em busca de aprimorar minhas habilidades, acompanhando tendências do setor e aprendendo novas ferramentas para entregar soluções inovadoras que agreguem valor ao negócio.
+                Meu compromisso vai além de apenas desenvolver código; busco criar produtos impactantes que atendam às necessidades dos usuários e superem as expectativas. 🚀`}
           />
         </Slide>
       </Cards>

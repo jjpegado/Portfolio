@@ -6,20 +6,36 @@ import styled from 'styled-components';
 
 let data = [
     {
-        img : "https://res.cloudinary.com/dcp1tngv1/image/upload/v1683226085/eu/Captura_de_Tela_8_apok6f.png",
-        disc : "Projeto Sistema de Chamados "
+    img : "https://media.licdn.com/dms/image/v2/D4D2DAQHWFX1KxULCUw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1694647384317?e=1732284000&v=beta&t=zcYW08lf3iHYZ--bEtxWttgKCKAKNXSjFhQiKEQV6pQ",
+    disc : "Site de delivery ",
+    demo : 'https://cardapio-online-juli.netlify.app/#cardapio'
     },
     {
         img : "https://res.cloudinary.com/dcp1tngv1/image/upload/v1683226080/eu/Captura_de_Tela_5_snxuxz.png",
-        disc : "Criador de Tarefas"
+        disc : "Criador de Tarefas",
+        demo : 'https://creat-tarefa.netlify.app/' 
     },
     {
       img : "https://res.cloudinary.com/dcp1tngv1/image/upload/v1683226085/eu/Captura_de_Tela_8_apok6f.png",
-      disc : "Projeto Sistema de Chamados "
+      disc : "Projeto Sistema de Chamados ",
+      demo : 'https://leafy-creponne-225dc8.netlify.app/'
     },
     {
+      img : "https://media.licdn.com/dms/image/v2/D4D22AQGQXBMz_4WNtQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1707920765033?e=1734566400&v=beta&t=7N5mbQHNRrdHLxgvt28uHWiiTlvCRA8XQtqtdY1KTUw",
+      disc : "plicação capaz de criptografar textos ",
+      demo : 'https://codificador-de-texto-sbto.vercel.app/'
+    },
+
+    {
+      img : "https://i.postimg.cc/kXg0VRsC/Captura-de-tela-2024-11-15-104500.png",
+      disc : "Projeto Portfólio",
+      demo : "https://helpful-syrniki-b853a4.netlify.app/pages/home/"
+  },
+    
+    {
         img : "https://res.cloudinary.com/dcp1tngv1/image/upload/v1683226064/eu/Captura_de_Tela_3_rj9y31.png",
-        disc : "Projeto Filmaria"
+        disc : "Projeto Filmaria",
+        demo : "https://proje-site-filmes.netlify.app/"
     },
 ];
 

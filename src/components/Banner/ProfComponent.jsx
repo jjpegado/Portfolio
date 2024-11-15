@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { AiOutlineInstagram } from "react-icons/ai";
-import {  AiFillGithub } from "react-icons/ai";
+import { AiOutlineInstagram ,  AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
 
@@ -27,7 +26,7 @@ const ProfComponent = () => {
             <p>Confira o Meu</p>
             <div className="social-icons">
               <span>
-                <a href="https://www.instagram.com/julio.sooares/"  target="_blank">
+                <a href="https://www.instagram.com/julio.sooares/"  target="_blank" rel="noreferrer">
                   <AiOutlineInstagram />
                 </a>
               </span>
@@ -37,7 +36,7 @@ const ProfComponent = () => {
                 </a>
               </span>
               <span>
-                <a href="https://www.linkedin.com/in/j%C3%BAlio-soares-984246243/"  target="_blank">
+                <a href="https://www.linkedin.com/in/j%C3%BAlio-soares-984246243/"  target="_blank" rel="noreferrer">
                   <FaLinkedinIn />
                 </a>
               </span>

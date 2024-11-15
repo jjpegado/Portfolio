@@ -4,7 +4,7 @@ import { MdAlternateEmail } from "react-icons/md";
 import { CgProfile } from "react-icons/cg";
 import { HiOutlineMailOpen } from "react-icons/hi";
 import { AiFillGithub, AiFillLinkedin, AiOutlineArrowUp } from "react-icons/ai";
-import { BsFacebook, BsInstagram } from "react-icons/bs";
+import { BsInstagram } from "react-icons/bs";
 import { FiMail, FiPhoneCall } from "react-icons/fi";
 import { Slide, Zoom, Fade } from "react-awesome-reveal";
 
@@ -59,21 +59,21 @@ const Footer = () => {
           <div className="icons">
             <Zoom>
               <span>
-                <a href="https://github.com/jjpegado" target="_blank">
+                <a href="https://github.com/jjpegado" target="_blank" rel="noreferrer">
                   <AiFillGithub />
                 </a>
               </span>
             </Zoom>
             <Zoom>
               <span>
-                <a href="https://www.linkedin.com/in/j%C3%BAlio-soares-984246243/" target="_blank">
+                <a href="https://www.linkedin.com/in/j%C3%BAlio-soares-984246243/" target="_blank" rel="noreferrer">
                   <AiFillLinkedin />
                 </a>
               </span>
             </Zoom>
             <Zoom>
               <span>
-                <a href="https://www.instagram.com/julio.sooares/" target="_blank">
+                <a href="https://www.instagram.com/julio.sooares/" target="_blank" rel="noreferrer">
                   <BsInstagram />
                 </a>
               </span>
